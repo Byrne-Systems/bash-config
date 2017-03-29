@@ -1,0 +1,38 @@
+# Default User Directories
+Desktop/
+Documents/
+Downloads/
+Packages/
+Pictures/
+
+# Default System Directories
+.cache/
+.cinnamon/
+.config/
+.conky/
+.dbus/
+.fonts/
+.gconf/
+.gnome/
+.kde/
+.linuxmint/
+.local/
+.mozilla/
+.npm/
+.pki/
+
+# Default Deb/Mint Files
+.ICEauthority
+.Private
+.Xauthority
+.bash_history
+.bash_logout
+.dmrc
+.ecryptfs
+.gitconfig
+.gksu.lock
+.profile
+.sudo_as_admin_successful
+.wget-hsts
+.xsession-errors
+*~
