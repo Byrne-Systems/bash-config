@@ -39,3 +39,4 @@ alias apache-restart='sudo invoke-rc.d apache2 restart'
 
 ## Directory Locations
 alias bin='cd /usr/bin'
+alias apps='cd /var/www/Apps'

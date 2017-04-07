@@ -4,6 +4,11 @@ Documents/
 Downloads/
 Packages/
 Pictures/
+bash-config/
+node_modules/
+nodejs
+screenFetch-master/
+workspace/
 
 # Default System Directories
 .cache/
@@ -20,6 +25,8 @@ Pictures/
 .mozilla/
 .npm/
 .pki/
+.eclipse/
+.putty/
 
 # Default Deb/Mint Files
 .ICEauthority
@@ -28,6 +35,9 @@ Pictures/
 .bash_history
 .bash_logout
 .dmrc
+.node_repl_history
+.subl8ef.tmp
+.viminfo
 .ecryptfs
 .gitconfig
 .gksu.lock
